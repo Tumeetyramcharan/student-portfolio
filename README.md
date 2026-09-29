@@ -6,3 +6,9 @@ I am a Data Science student interested in technology and software development.
 
 This project contains my personal student portfolio.
 It tracks my projects, skills, and academic work using Git.
+## Skills
+
+- Python
+- Git and GitHub
+- Data Science
+- SQL
